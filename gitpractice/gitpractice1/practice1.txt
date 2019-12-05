@@ -1,6 +1,5 @@
 knvkj 
 this is the gitpractice1 file
 this is the new line
-created the new gitpractice project.
-doing the git revert 
+created the new gitpractice project
 
