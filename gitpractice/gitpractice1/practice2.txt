@@ -1,2 +1,5 @@
 this is the practice2.txt file
+<<<<<<< HEAD
 hi  
+=======
+>>>>>>> parent of 9d4c852... edited the new file
